@@ -1,16 +1,8 @@
 
 ## The Laravel installer is very user-friendly and easy to install.
 
-<p align="center">
-  <a href="https://paypal.me/teamdevgeek">
-    <img src="https://github.com/eramitgupta/server-commands/blob/main/%24-donate-ff69b4.svg">
-  </a>
-</p>
-
 
 InstallerErag packages can be easily installed with any Laravel project. They are designed to be user-friendly and simple to use. With InstallerErag, you can easily configure all the necessary configurations dynamically, including the minimum required PHP version, PHP execution, default Laravel folder permissions, .env file setup, and custom account form. Additionally, the package includes an automated database migration and seed process.
-
-![screenshot](https://raw.githubusercontent.com/eramitgupta/files/main/Laravel-InstallerErag.jpg)
 
 ## Getting Started
 
@@ -46,8 +38,6 @@ Inside the `config/app.php` file, find the providers array.
 ```bash
  https://yourdomain.com/app/install
 ```
-
-![screenshot](https://raw.githubusercontent.com/eramitgupta/files/main/InstallerErag.gif)
 
 ### How to customize Requirements and Permissions?
 
@@ -91,26 +81,3 @@ After adding, you need to go to `yourproject/config/install.php` where the input
         'phone_number' => 'required',
     ]
 ```
-
-### Screencasts (Video)
-
-```bash
-https://drive.google.com/file/d/1kqzdLvMZGUIJGCi214jB91jsDOM4UKl0/view
-```
-### Step 1:
-![screenshot](https://raw.githubusercontent.com/eramitgupta/files/main/installeeErag1.png)
-### Step 2:
-![screenshot](https://raw.githubusercontent.com/eramitgupta/files/main/installeeErag2.png)
-### Step 3:
-![screenshot](https://raw.githubusercontent.com/eramitgupta/files/main/installeeErag3.png)
-### Step 4:
-![screenshot](https://raw.githubusercontent.com/eramitgupta/files/main/installeeErag4.png)
-
-### License
-
-The MIT License (MIT). Please see License File for more information.
-
-> GitHub [@eramitgupta](https://github.com/eramitgupta) &nbsp;&middot;&nbsp;
-> Linkedin [@eramitgupta](https://www.linkedin.com/in/eramitgupta/)&nbsp;&middot;&nbsp;
-> Donote [@eramitgupta](https://paypal.me/teamdevgeek/)
-
